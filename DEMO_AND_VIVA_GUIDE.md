@@ -119,6 +119,3 @@ Record intended and emitted action independently in `LIVE_TRIALS_TEMPLATE.csv`. 
 
 For target logs, hit fraction = successful clicks / all clicks. Acquisition time for a target is the `seconds_since_target_shown` value on its first successful hit. Miss timestamps are cumulative since target appearance; do not sum them. Report incomplete targets and interrupted runs. Jitter should be measured over a stationary interval with no intentional movement, and live cursor samples should exclude pauses/no-face states.
 
-## Submission check
-
-Every member fills their actual contribution. Include implementation file names, experiments run, analysis performed and specific writing/presentation work where applicable. Do not assign invented responsibilities. Add the final GitHub URL and commit after publishing through your own account. Keep source links and the entire code appendix in the report.
